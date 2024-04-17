@@ -2,8 +2,7 @@ import React from 'react';
 import './App.css';
 
 function App() {
-
-console.log('descr');
+console.log('SOME TEXT')
 
   return (
     <div className="App">
